@@ -22,7 +22,7 @@ São os objetivos desse trabalho as seguintes etapas:
 
 ## Análise exploratória 
 
-A base utilizada para o desenvolvimento do projeto foi o **CIFAR 10** que consiste num dataset com 60 mil imagens de dimensões 32x32 distribuídos em 10 classes.
+A base utilizada para o desenvolvimento do projeto foi o **CIFAR 10** que consiste num dataset com 60 mil imagens de dimensões 32x32 distribuídos em 10 classes. As 10 classes são: aviões, carros, pássaros, gatos, veados, cães, sapos, cavalos, navios e camiões.
 
 Por padrão o dataset já está dividido da seguinte forma: 50 mil imagens de treinamento e 10 mil imagens para teste
 
@@ -33,3 +33,6 @@ A seguir uma visão geral do dataset:
 Foi feita uma leitura no código Python do dataset e esta é uma imagem que pode ser visualizada:
 
 ![](./imagens/img2.jpg)
+
+## Determinação da tarefa de Aprendizado de Máquina;
+Como o objetivo deste trabalho é classificar uma imagem com base nos dados já coletados, então a tarefa de aprendizado de máquina é classificação que é aprendizado supervisionado.
