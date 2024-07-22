@@ -34,5 +34,11 @@ Foi feita uma leitura no código Python do dataset e esta é uma imagem que pode
 
 ![](./imagens/img2.jpg)
 
-## Determinação da tarefa de Aprendizado de Máquina;
+## Determinação da tarefa de Aprendizado de Máquina
 Como o objetivo deste trabalho é classificar uma imagem com base nos dados já coletados, então a tarefa de aprendizado de máquina é classificação que é aprendizado supervisionado.
+
+## Validação Cruzada
+A abordagem da validação cruzada usada neste projeto deveu-se a utilização da ferramenta StratifiedKFold do Scikit-Learning onde o número de k-folds especificado foi igual a 10. Os parâmetros testados foram os mesmo da criação do modelo.
+A média dos 10 resultados que foi realizado deu um valor de 76.456% de acurácia.
+
+## Grade de Busca
