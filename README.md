@@ -42,3 +42,9 @@ A abordagem da validação cruzada usada neste projeto deveu-se a utilização d
 A média dos 10 resultados que foi realizado deu um valor de 76.456% de acurácia.
 
 ## Grade de Busca
+
+
+## Gráficos
+
+Os gráficos mostram o desempenho das redes em termos de acurácia e desvio padrão. Lembrando os gráficos de acurácias foram ordenados para melhor visibilidade e cada
+valor da abscissa no gráfico de desvio padrão corresponde à abscissa no gráfico de acurácias. Pode-se perceber que para modelos se adaptam melhor aos dados e apresentam acurácias maiores, há desvios padrão de validação cruzada tendenciodamente mais, indicando consistência.  
