@@ -43,8 +43,10 @@ A média dos 10 resultados que foi realizado deu um valor de 76.456% de acuráci
 
 ## Grade de Busca
 
+Na grade de busca foram experimentados dois tipos diferentes de otimizadores, assim como no tamanho da forma (batch) e na quantidade de épocas, a fim de encontrar uma combinação que apresentasse melhores métricas de teste.
+
 
 ## Gráficos
 
-Os gráficos mostram o desempenho das redes em termos de acurácia e desvio padrão. Lembrando os gráficos de acurácias foram ordenados para melhor visibilidade e cada
-valor da abscissa no gráfico de desvio padrão corresponde à abscissa no gráfico de acurácias. Pode-se perceber que para modelos se adaptam melhor aos dados e apresentam acurácias maiores, há desvios padrão de validação cruzada tendenciodamente mais, indicando consistência.  
+Os gráficos mostram o desempenho das redes em termos de acurácia e desvio padrão. Lembrando que os gráficos de acurácias foram ordenados para melhor visibilidade e cada
+valor da abscissa no gráfico de desvio padrão corresponde à abscissa no gráfico de acurácias. Pode-se perceber que modelos se adaptam melhor aos dados que apresentam acurácias maiores. E para as mesmas redes, há desvios padrão de validação cruzada tendenciodamente mais baixos, indicando consistência.  
